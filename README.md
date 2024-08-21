@@ -9,8 +9,9 @@ How to use
 
 <img alt="Import Package" src="ImportPackage.png" />
    
-5) in Scene foloder, select BluetoothSampleScene
-<img alt="Open Sample Scene" src="[OpenSampleScene.png]" />
+4) in Scene foloder, select BluetoothSampleScene
+
+<img alt="OpenSampleScene" src="[OpenSampleScene.png]" />
 
 
 that is a sample, just build apk or Xcode Project, 
