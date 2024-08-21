@@ -11,7 +11,7 @@ How to use
    
 4) in Scene foloder, select BluetoothSampleScene
 
-<img alt="OpenSampleScene" src="[OpenSampleScene.png]" />
+<img alt="Open Sample Scene" src="OpenSampleScene.png" />
 
 
 that is a sample, just build apk or Xcode Project, 
