@@ -1,7 +1,7 @@
 # UnityBluetoothPlugin.github
 include android and iOS
 
-[Download Link](https://github.com/Space-Capsule/UnityBluetoothPlugin.github/raw/main/UnityBluetoothPlugin.unitypacka)
+[Download Link](https://github.com/Space-Capsule/UnityBluetoothPlugin.github/raw/main/UnityBluetoothPlugin.unitypacka](https://github.com/Space-Capsule/UnityBluetoothPlugin.github/blob/main/UnityBluetoothPlugin.unitypackage)
 
 How to use
 1) create new Unity Project
