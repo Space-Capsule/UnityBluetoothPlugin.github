@@ -25,7 +25,9 @@ then select device you want to connect.
 ## For iOS with Xcode
 
 1. Set Bluetooth runtime permission, in ``Info.plist`` file,
+   
    (1) add "Privacy - Bluetooth Always Usage Description" for Key.
+   
    (2) and Type "Using BLE" or anythigns you want for Value.
 
 <img alt="Privacy BLE" src="PrivacySetting.png" />
