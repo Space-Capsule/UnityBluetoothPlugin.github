@@ -28,7 +28,7 @@ then select device you want to connect.
    
    (1) add "Privacy - Bluetooth Always Usage Description" for Key.
    
-   (2) and Type "Using BLE" or anythigns you want for Value.
+   (2) and Type "Using BLE" or anything you want for Value.
 
 <img alt="Privacy BLE" src="PrivacySetting.png" />
 
