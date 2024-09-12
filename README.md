@@ -21,3 +21,13 @@ build to as android app,
 then click "Scan" button (the device name must contain "HC-" or "SC-BLE" or "SC-LTC")
 if device found, you will see the button on list
 then select device you want to connect.
+
+## For iOS with Xcode
+
+1. Set Bluetooth runtime permission
+
+<img alt="Privacy BLE" src="PrivacySetting.png" />
+
+2. Add CoreBluetooth.framework
+
+<img alt="Add Framework" src="AddCoreBluetoothFramework.png" />
