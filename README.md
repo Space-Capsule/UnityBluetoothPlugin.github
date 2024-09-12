@@ -18,6 +18,6 @@ How to use
 that is a sample, just build apk or Xcode Project, 
 for example, 
 build to as android app, 
-then click "Scan" button (the device name must contain "HC-" or "SC-BLE" or ""SC-LTC)
+then click "Scan" button (the device name must contain "HC-" or "SC-BLE" or "SC-LTC")
 if device found, you will see the button on list
 then select device you want to connect.
